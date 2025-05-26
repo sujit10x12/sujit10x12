@@ -1,4 +1,4 @@
-## 👋 Hi, I'm [Your Name] – Data Analyst
+## 👋 Hi, I'm Sujeet Singh – Data Analyst
 
 <!--
 **sujit10x12/sujit10x12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -39,11 +39,12 @@ Tell compelling stories with data
 Automate reporting and streamline workflows
 
 📫 Connect With Me
+
 💼 LinkedIn
 
 🌐 Portfolio Website
 
-📬 Email: youremail@example.com
+📬 Email: sujit10x12@gmail.com
 
 
 
