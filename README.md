@@ -1,4 +1,4 @@
-## 👋 Hi, I'm Sujeet Singh – Data Analyst
+## 💫 About Me
 
 <!--
 **sujit10x12/sujit10x12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -16,13 +16,17 @@ Here are some ideas to get you started:
 -->
 
 🎯 Driven by data, powered by curiosity.
-I'm a data analyst with a passion for turning raw data into clear, actionable insights. I specialize in data wrangling, exploratory analysis, visualization, and dashboard creation.
+I'm a `Data Analyst` who enjoys working with data to find useful insights.
+
+I have experience in tools like Excel, SQL, Python, Tableau and Power BI, and I use them to clean, analyze, and visualize data. I like solving problems, making sense of numbers, and turning data into something meaningful for teams and businesses.
+
+Let’s turn spreadsheets into success stories.
 
 
 🔧 Tools & Technologies:
 
   - 🔭 Languages: SQL · Python · R
-  - 🌱 Libraries: pandas · numpy · matplotlib · seaborn · scikit-learn
+  - 🌱 Libraries: pandas · numpy · matplotlib · seaborn
   - 👯 Visualization: Tableau · Power BI · Excel
   - 🤔 Databases: MySQL · PostgreSQL · SQLite
 
