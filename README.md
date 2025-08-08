@@ -40,10 +40,10 @@ Let’s turn spreadsheets into success stories.
   - 🤔 Automate reporting and streamline workflows
 
 
-📫 Connect With Me
-💼 LinkedIn
-🌐 Portfolio Website
-📬 Email: sujit10x12@gmail.com
+📫 Connect With Me  
+💼 <a href="www.linkedin.com/in/">LinkedIn</a>  
+🌐 Portfolio Website  
+📬 Email: sujit10x12@gmail.com  
 
 
 
