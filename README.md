@@ -41,7 +41,7 @@ Let’s turn spreadsheets into success stories.
 
 
 📫 Connect With Me  
-💼 <a target="blank" href="www.linkedin.com/in/sujit10x12">LinkedIn</a>  
+💼 <a href="https://www.linkedin.com/in/sujit10x12/">LinkedIn</a>  
 🌐 Portfolio Website  
 📬 Email: sujit10x12@gmail.com  
 
