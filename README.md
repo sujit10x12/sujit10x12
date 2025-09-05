@@ -1,54 +1,33 @@
-## 💫 About Me
-
-<!--
-**sujit10x12/sujit10x12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-🎯 Driven by data, powered by curiosity.
-I'm a `Data Analyst` who enjoys working with data to find useful insights.
-
-I have experience in tools like Excel, SQL, Python, Tableau and Power BI, and I use them to clean, analyze, and visualize data. I like solving problems, making sense of numbers, and turning data into something meaningful for teams and businesses.
-
-Let’s turn spreadsheets into success stories.
+# 💫 About Me:
+I'm a Commerce graduate with a strong interest in data and analytics<br>I have hands-on experience with Excel, SQL, Python, Tableau, and Power BI, which I use to clean, analyze, and visualize data. I'm continuously learning and applying my skills through real-world projects, and I’ll be sharing my best work right here on GitHub.
 
 
-🔧 Tools & Technologies:
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/sujit10x12/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sujit10x12@gmail.com) 
 
-  - 🔭 Languages: SQL · Python · R
-  - 🌱 Libraries: pandas · numpy · matplotlib · seaborn
-  - 👯 Visualization: Tableau · Power BI · Excel
-  - 🤔 Databases: MySQL · PostgreSQL · SQLite
+# 💻 Tech Stack:
+![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=postgresql&logoColor=white)
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) 
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Tableau](https://img.shields.io/badge/Tableau-123e57?style=for-the-badge&logo=tableau&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) 
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
+![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) 
+![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) 
+![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) 
+![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
 
-📊 What I Do:
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=sujit10x12&theme=one_dark_pro&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=sujit10x12&theme=one_dark_pro&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=sujit10x12&theme=one_dark_pro&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-  - 🔭 Clean and transform messy data into usable formats
-  - 🌱 Build dashboards that help stakeholders make informed decisions
-  - 👯 Analyze trends, patterns, and business KPIs
-  - 🤔 Tell compelling stories with data
-  - 🤔 Automate reporting and streamline workflows
+---
+[![](https://visitcount.itsvg.in/api?id=sujit10x12&icon=0&color=0)](https://visitcount.itsvg.in)
 
-
-📫 Connect With Me  
-💼 <a href="https://www.linkedin.com/in/sujit10x12/">LinkedIn</a>  
-🌐 Portfolio Website  
-📬 Email: sujit10x12@gmail.com  
-
-
-
-
-
-
-
-
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
