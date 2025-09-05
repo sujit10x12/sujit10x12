@@ -1,11 +1,17 @@
-# 💫 About Me:
+# 💫 About Me
 I'm a Commerce graduate with a strong interest in data and analytics<br>I have hands-on experience with Excel, SQL, Python, Tableau, and Power BI, which I use to clean, analyze, and visualize data. I'm continuously learning and applying my skills through real-world projects, and I’ll be sharing my best work right here on GitHub.
 
+---
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/sujit10x12/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sujit10x12@gmail.com) 
+## 🛠️ Skills & Tools  
+- **Languages & Querying**: SQL, Python (Pandas, NumPy)  
+- **Visualization**: Tableau, Power BI, Matplotlib, Seaborn  
+- **Data Wrangling**: Excel (Power Query, Pivot Tables), Pandas  
+- **Other Tools**: Git, Jupyter Notebook  
 
-# 💻 Tech Stack:
+---
+
+# 💻 Tech Stack
 ![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) 
@@ -21,3 +27,11 @@ I'm a Commerce graduate with a strong interest in data and analytics<br>I have h
 ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) 
 ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) 
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
+
+### ✍️ Quote I Live By  
+> "Analytics isn’t just about presenting data — it’s about making it intuitive, effective, and giving people the answers they need in the shortest time."
+
+---
+
+## 🌐 Socials
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/sujit10x12/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sujit10x12@gmail.com) 
