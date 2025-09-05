@@ -28,8 +28,8 @@ I'm a Commerce graduate with a strong interest in data and analytics<br>I have h
 ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) 
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
 
-### ✍️ Quote I Live By  
-> "Analytics isn’t just about presenting data — it’s about making it intuitive, effective, and giving people the answers they need in the shortest time."
+### ✍️ Words I Work By  
+![Custom Badge](https://img.shields.io/badge/💡_"Analytics_isn’t_just_about_presenting_data,_it’s_about_making_it_intuitive,_effective,_and_giving_people_the_answers_they_need_in_the_shortest_time."-1B1F23?style=for-the-badge&logoColor=FF453A&labelColor=1B1F23)
 
 ---
 
