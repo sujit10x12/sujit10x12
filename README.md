@@ -38,7 +38,7 @@ I'm continuously learning and applying my skills through real-world projects, an
 ![Custom Badge](https://img.shields.io/badge/💡_"Analytics_isn’t_just_about_presenting_data,_it’s_about_making_it_intuitive,_effective,_and_giving_people_the_answers_they_need_in_the_shortest_time."-1B1F23?style=for-the-badge&logoColor=FF453A&labelColor=1B1F23)  
 
 <p align="center">
-  <img src="[assets/analytics-quote.gif](https://github.com/sujit10x12/assets)" width="500" />
+  <img src="https://github.com/sujit10x12/assets" width="500" />
 </p>
 ---
 
