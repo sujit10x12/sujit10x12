@@ -1,6 +1,5 @@
-# 👋, I'm Sujeet
-
-### An Aspiring Data Analyst
+<h1 align="center">Hi 👋, I'm Sujeet</h1>
+<h3 align="center">An Aspiring Analyst</h3>
 
 ## About Me 
 I'm a Commerce graduate with a strong interest in data and analytics.  
