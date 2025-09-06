@@ -47,6 +47,12 @@ I'm continuously learning and applying my skills through real-world projects, an
 
 ---
 
+## 📜 Certifications  
+
+- [Google Data Analytics Professional Certificate](https://www.credly.com/badges/your-verification-link) – Coursera
+
+---
+
 ## 🌐 Socials  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/sujit10x12/)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/sujit10x12/)
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sujit10x12@gmail.com)  
