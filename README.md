@@ -1,6 +1,6 @@
 <h1 align="center">
   Hi 👋, I'm Sujeet <br>
-  <p><small>An Aspiring Analyst</small></p>
+  <p><sub><sub>An Aspiring Analyst</sub></sub></p>
 </h1>
 
 ## About Me 
