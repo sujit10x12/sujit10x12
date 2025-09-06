@@ -34,10 +34,14 @@ I'm continuously learning and applying my skills through real-world projects, an
 
 ---
 
-### ✍️ Words I Work By  
+### ✍️ Quote I Believe In 
 
 <p align="center">
   <img src="https://github.com/sujit10x12/assets/blob/main/analytics-quote.gif" width="1584" />
+</p>
+
+<p align="center" style="background-color:#f0f0f0; padding:10px; border-radius:10px;">
+  <em>"Without data, you’re just another person with an opinion." – W. Edwards Deming</em>
 </p>
 ---
 
