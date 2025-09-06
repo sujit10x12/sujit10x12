@@ -36,28 +36,19 @@ I'm continuously learning and applying my skills through real-world projects, an
 
 ### ✍️ Quote I Believe In 
 
-<p align="center">
-  <img src="https://github.com/sujit10x12/assets/blob/main/analytics-quote.gif" width="1584" />
-</p>
-
-<p align="center" style="background-color:#f0f0f0; padding:10px; border-radius:10px; color:#">
+<!--  
+  <p align="center">
+    <img src="https://github.com/sujit10x12/assets/blob/main/analytics-quote.gif" width="1584" />
+  </p>
+-->
+<p align="center" style="background-color:#f0f0f0; padding:10px; border-radius:10px; color:#A1D6FC">
   <em>“Analytics isn’t just about presenting data - it’s about making it intuitive, effective, and giving people the answers they need in the shortest time.”</em>
 </p>
 
-<p align="center">
-  <svg viewBox="0 0 1000 80" xmlns="http://www.w3.org/2000/svg">
-    <defs>
-      <linearGradient id="gradient" gradientTransform="rotate(90)">
-        <stop offset="0%" stop-color="#ff7e5f" />
-        <stop offset="100%" stop-color="#feb47b" />
-      </linearGradient>
-    </defs>
-    <text x="50%" y="50%" text-anchor="middle" dominant-baseline="middle"
-          font-family="Arial, sans-serif" font-size="28" fill="url(#gradient)">
-      "Without data, you’re just another person with an opinion."
-    </text>
-  </svg>
+<p align="center" style="background-color:#f0f0f0; padding:10px; border-radius:10px; color:#CDF80C">
+  <em>“Analytics isn’t just about presenting data - it’s about making it intuitive, effective, and giving people the answers they need in the shortest time.”</em>
 </p>
+
 ---
 
 ## 🌐 Socials  
