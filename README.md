@@ -1,6 +1,3 @@
-<h1 align="center">Hi 👋, I'm Sujeet <br> <p>An Aspiring Analyst</p></h1>
-<h3 align="center">An Aspiring Analyst</h3>
-
 <h1 align="center">
   Hi 👋, I'm Sujeet <br>
   <p><sub>An Aspiring Analyst</sub></p>
