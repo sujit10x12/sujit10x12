@@ -49,10 +49,13 @@ I'm continuously learning and applying my skills through real-world projects, an
 
 ## 📜 Certifications  
 
-- [Google Data Analytics Professional Certificate](https://www.credly.com/badges/your-verification-link) – Coursera
+- 🎓 [Google Data Analytics Professional Certificate](https://www.coursera.org/account/accomplishments/specialization/certificate/E2D36WMZLM6U) – Coursera
+- 🎓 [Data Skills for Excel Professionals (CFI)](https://coursera.org/verify/your-verification-link) – Coursera
+- 🎓 [Data Analysis with Python (IBM)](https://www.coursera.org/account/accomplishments/certificate/2U418IFLBBIP) – Coursera
 
 ---
 
 ## 🌐 Socials  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/sujit10x12/)
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sujit10x12@gmail.com)  
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sujit10x12@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?logo=vercel&logoColor=white)](https://your-portfolio-link.com)
