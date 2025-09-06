@@ -54,6 +54,11 @@ I'm continuously learning and applying my skills through real-world projects, an
     <em>“Analytics isn’t just about presenting data - it’s about making it intuitive, effective, and giving people the answers they need in the shortest time.”</em>
   </font>
 </p>
+<p align="center">
+  <font color="#A1D6FC">
+    <em>“Analytics isn’t just about presenting data - it’s about making it intuitive, effective...”</em>
+  </font>
+</p>
 ---
 
 ## 🌐 Socials  
