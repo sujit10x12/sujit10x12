@@ -45,7 +45,7 @@ I'm continuously learning and applying my skills through real-world projects, an
   <em>“Analytics isn’t just about presenting data - it’s about making it intuitive, effective, and giving people the answers they need in the shortest time.”</em>
 </p>
 
-<p align="center" style="background-color:#f0f0f0; padding:10px; border-radius:10px; color:#CDF80C">
+<p align="center" style="background-color:#f0f0f0; padding:10px; border-radius:10px; color:#CDF80C;">
   <em>“Analytics isn’t just about presenting data - it’s about making it intuitive, effective, and giving people the answers they need in the shortest time.”</em>
 </p>
 
