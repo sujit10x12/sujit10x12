@@ -60,3 +60,4 @@ I'm continuously learning and applying my skills through real-world projects, an
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sujit10x12@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?logo=vercel&logoColor=white)](https://your-portfolio-link.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-1DA1F2?logo=google-chrome&logoColor=white)](https://your-portfolio-link.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-0A0A0A?logo=dev.to&logoColor=white)](https://your-portfolio-link.com)
