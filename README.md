@@ -59,7 +59,9 @@ I'm continuously learning and applying my skills through real-world projects, an
 ## 📜 Certifications  
 
 - 🎓 [Google Data Analytics Professional Certificate](https://www.coursera.org/account/accomplishments/specialization/certificate/E2D36WMZLM6U) – Coursera
-- 🎓 [Data Skills for Excel Professionals (CFI)](https://coursera.org/verify/your-verification-link) – Coursera
+- 🎓 [Data Skills for Excel Professionals (CFI)](https://www.coursera.org/account/accomplishments/specialization/certificate/ILAJLO8GFP1J) – Coursera
 - 🎓 [Data Analysis with Python (IBM)](https://www.coursera.org/account/accomplishments/certificate/2U418IFLBBIP) – Coursera
-
+- 🎓 [SQL for Data Analysts - (CFI)](https://www.coursera.org/account/accomplishments/certificate/0JYAB1DOALB1) – Coursera
+- 🎓 [Advanced Tableau - (CFI)]() – Coursera
+  
 ---
