@@ -61,7 +61,7 @@ I'm continuously learning and applying my skills through real-world projects, an
 ### 🛏️ Head Rest Bed Company – Excel Dashboard Project  
 - Developed **interactive Excel dashboards** using Power Query, Power Pivot, and DAX to analyze sales, margins, and store performance.  
 - Delivered **actionable insights** on top-performing stores, category drivers, seasonality, and manager performance, enabling data-driven decisions.  
-[🔗 View Project]([https://github.com/yourusername/HeadRestBed-Excel-Dashboard](https://github.com/sujit10x12/excel-sales-dashboard))  
+[🔗 View Project](https://github.com/sujit10x12/excel-sales-dashboard)  
 
 ### 📦 Retail Customer Analysis – Python & SQL  
 - Performed **EDA using Python (Pandas, Matplotlib, Seaborn)** and SQL queries to analyze customer demographics, purchase behavior, and sales trends.  
