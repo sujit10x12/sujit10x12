@@ -84,3 +84,9 @@ I'm continuously learning and applying my skills through real-world projects, an
 - 🎓 [Advanced Tableau - (CFI)]() – Coursera
   
 ---
+
+## 📈 GitHub Stats
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=sujit10x12)](https://git.io/streak-stats)
+
+---
