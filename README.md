@@ -89,4 +89,8 @@ I'm continuously learning and applying my skills through real-world projects, an
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=sujit10x12)](https://git.io/streak-stats)
 
+## 📈 GitHub Stats
+
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=sujit10x12&show_icons=true&theme=default)
+
 ---
