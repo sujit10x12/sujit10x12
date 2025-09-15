@@ -61,12 +61,11 @@ I'm continuously learning and applying my skills through real-world projects, an
 ### 🛏️ Head Rest Bed Company – Excel Dashboard Project  
 - Developed **interactive Excel dashboards** using Power Query, Power Pivot, and DAX to analyze sales, margins, and store performance.  
 - Delivered **actionable insights** on top-performing stores, category drivers, seasonality, and manager performance, enabling data-driven decisions.  
-[🔗 View Project](https://github.com/sujit10x12/excel-sales-dashboard)  
+[🔗 View Project](https://github.com/sujit10x12/excel-sales-dashboard)
 
-### 📦 Retail Customer Analysis – Python & SQL  
-- Performed **EDA using Python (Pandas, Matplotlib, Seaborn)** and SQL queries to analyze customer demographics, purchase behavior, and sales trends.  
-- Identified **age group preferences, seasonal buying patterns, and product-level insights** to support targeted marketing strategies.  
-[🔗 View Project](https://github.com/yourusername/Retail-Customer-Analysis)  
+### 🧋 Beverage Sales EDA – Python & SQL  
+- Performed **exploratory data analysis** using Python (Pandas, Matplotlib, Seaborn) and SQL to analyze **sales trends, category performance, pricing insights, and regional patterns**. - Identified **seasonality peaks, top-performing products, and underperforming categories**, with recommendations for **pricing strategy, product focus, and regional expansion**.  
+[🔗 View Project](https://github.com/yourusername/beverage-sales-eda)
 
 ### 📈 Sales Insights Dashboard – Power BI  
 - Built a **Power BI dashboard** to visualize KPIs like Sales, Profit, and Discount impact across regions and categories.  
