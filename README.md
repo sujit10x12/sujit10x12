@@ -65,7 +65,7 @@ I'm continuously learning and applying my skills through real-world projects, an
 
 ### 🧋 Beverage Sales EDA – Python & SQL  
 - Performed **exploratory data analysis** using Python (Pandas, Matplotlib, Seaborn) and SQL to analyze **sales trends, category performance, pricing insights, and regional patterns**. - Identified **seasonality peaks, top-performing products, and underperforming categories**, with recommendations for **pricing strategy, product focus, and regional expansion**.  
-[🔗 View Project](https://github.com/yourusername/beverage-sales-eda)
+[🔗 View Project](https://github.com/sujit10x12/beverage-sales-eda)
 
 ### 📈 Sales Insights Dashboard – Power BI  
 - Built a **Power BI dashboard** to visualize KPIs like Sales, Profit, and Discount impact across regions and categories.  
