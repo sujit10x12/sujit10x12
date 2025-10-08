@@ -75,7 +75,7 @@ I'm continuously learning and applying my skills through real-world projects, an
 - 🎓 [Data Skills for Excel Professionals (CFI)](https://www.coursera.org/account/accomplishments/specialization/certificate/ILAJLO8GFP1J) – Coursera
 - 🎓 [Data Analysis with Python (IBM)](https://www.coursera.org/account/accomplishments/certificate/2U418IFLBBIP) – Coursera
 - 🎓 [SQL for Data Analysts - (CFI)](https://www.coursera.org/account/accomplishments/certificate/0JYAB1DOALB1) – Coursera
-- 🎓 [Advanced Tableau - (CFI)]() – Coursera
+- 🎓 [Advanced Tableau - (CFI)](https://www.coursera.org/account/accomplishments/specialization/4EG8JSN9SLL4) – Coursera
   
 ---
 
