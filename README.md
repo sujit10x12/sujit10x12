@@ -8,7 +8,7 @@ I'm a Commerce graduate with a strong interest in data and analytics.
 I have hands-on experience with **Excel, SQL, Python, Tableau, and Power BI**, which I use to clean, analyze, and visualize data.  
 I'm continuously learning and applying my skills through real-world projects, and I’ll be sharing my best work right here on GitHub.  
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?logo=google-chrome&logoColor=white)](https://your-portfolio-link.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?logo=google-chrome&logoColor=white)](https://sujitdx.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sujit10x12/)
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sujit10x12@gmail.com)
 
