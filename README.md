@@ -75,7 +75,7 @@ I'm continuously learning and applying my skills through real-world projects, an
 
 ### 🛒 Calwest E-Commerce Performance Analysis (October 2025)
 - Analyzed Calwest’s 2+ lakh E-Commerce transactions using Tableau, uncovering insights on sales, profitability, customer demand, and regional growth.
-- Provided actionable recommendations to management for strategic decision-making and business optimization based on data-driven insights.
+- Provided actionable recommendations to management for strategic decision-making and business optimization based on data-driven insights.  
 [🔗 View Project](https://github.com/sujit10x12/calwest-e-commerce-tableau-project)
 
 ---
