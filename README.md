@@ -58,14 +58,24 @@ I'm continuously learning and applying my skills through real-world projects, an
 
 ## 📊 Projects  
 
+### 💰 GL Retail Corporation - Financial Reporting Automation (Power BI + Excel)
+- Designed and implemented an end-to-end Financial Reporting Automation System using SQL, Power BI, Power Query, and Excel, integrating 3 years of historical data from multiple sources into a unified model.
+- Eliminated 6+ hours of manual reporting per month by automating financial statements linked to SQL databases, increasing reporting accuracy by 25%
+[🔗 View Project](https://github.com/sujit10x12/financial-data-automation-sql-powerbi)
+
 ### 🛏️ Head Rest Bed Company – Excel Dashboard Project  
-- Developed **interactive Excel dashboards** using Power Query, Power Pivot, and DAX to analyze sales, margins, and store performance.  
-- Delivered **actionable insights** on top-performing stores, category drivers, seasonality, and manager performance, enabling data-driven decisions.  
+- Developed Excel-based interactive dashboards using Power Query, Power Pivot, and DAX to analyze.
+- Delivered actionable insights on sales, margins, and category trends that supported management’s strategic planning and improved decision turnaround time by 20%.  
 [🔗 View Project](https://github.com/sujit10x12/excel-sales-dashboard)
 
 ### 🧋 Beverage Sales EDA – Python & SQL  
-- Performed **exploratory data analysis** using Python (Pandas, Matplotlib, Seaborn) and SQL to analyze **sales trends, category performance, pricing insights, and regional patterns**. - Identified **seasonality peaks, top-performing products, and underperforming categories**, with recommendations for **pricing strategy, product focus, and regional expansion**.  
+- Performed EDA on 9 million beverage sales records using Python (Pandas, NumPy, Matplotlib, Seaborn) to discover sales patterns, seasonality, and pricing insights.
+- Analyzed product categories, price segments, and customer types (B2B vs B2C) to uncover key revenue drivers and underperforming areas.
 [🔗 View Project](https://github.com/sujit10x12/beverage-sales-eda)
+
+### 🛒 Calwest E-Commerce Performance Analysis W (October 2025)
+- Analyzed Calwest’s 2+ lakh E-Commerce transactions using Tableau, uncovering insights on sales, profitability, customer demand, and regional growth.
+- Provided actionable recommendations to management for strategic decision-making and business optimization based on data-driven insights.
 
 ---
 
