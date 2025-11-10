@@ -65,7 +65,7 @@ I'm continuously learning and applying my skills through real-world projects, an
 
 ### 🛏️ Head Rest Bed Company – Excel Dashboard Project  
 - Developed Excel-based interactive dashboards using Power Query, Power Pivot, and DAX to analyze.
-- Delivered actionable insights on sales, margins, and category trends that supported management’s strategic planning and improved decision turnaround time by 20%.  
+- Delivered actionable insights on sales, margins, and category trends that supported management’s strategic planning and improved decision turnaround time by 20%.
 [🔗 View Project](https://github.com/sujit10x12/excel-sales-dashboard)
 
 ### 🧋 Beverage Sales EDA – Python & SQL  
@@ -75,7 +75,7 @@ I'm continuously learning and applying my skills through real-world projects, an
 
 ### 🛒 Calwest E-Commerce Performance Analysis (October 2025)
 - Analyzed Calwest’s 2+ lakh E-Commerce transactions using Tableau, uncovering insights on sales, profitability, customer demand, and regional growth.
-- Provided actionable recommendations to management for strategic decision-making and business optimization based on data-driven insights.  
+- Provided actionable recommendations to management for strategic decision-making and business optimization based on data-driven insights.
 [🔗 View Project](https://github.com/sujit10x12/calwest-e-commerce-tableau-project)
 
 ---
